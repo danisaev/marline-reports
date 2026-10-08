@@ -1,2 +1,22 @@
-# marline-reports
-Repository for documents related to the educational practice, semester 3
+# MarLine Reports
+
+Материалы по проекту MarLine: отчёты, презентации.
+
+**Тема:** Оптимизация алгоритмов дельта-кодирования GDelta в системе MarLine  
+**Автор:** Daniil Isaev  
+**Кодовая база:** [danisaev/marline](https://github.com/danisaev/marline)
+
+## Структура
+
+| Папка | Содержание |
+|---|---|
+| `reports/` | Отчёты |
+| `presentations/` | Презентации |
+
+## Статус
+
+Работа в процессе. Репозиторий создан, материалы добавляются по мере готовности.
+
+## Лицензия
+
+MIT — см. [LICENSE](LICENSE).
