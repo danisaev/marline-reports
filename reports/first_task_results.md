@@ -11,7 +11,7 @@
 
 Данное решение соответствует оригинальной статье про SpeedSketch.
 
-Изменения оформлены в pull request [№10](https://github.com/admitrievtsev/marline/pull/10), который был принят (merged).
+Изменения оформлены в pull request [№10](https://github.com/SBC-avangard/marline/pull/10), который был принят (merged).
 
 ## Результаты измерений
 
